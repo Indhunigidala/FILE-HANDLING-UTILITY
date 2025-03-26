@@ -34,8 +34,4 @@ public class filehandlingutility {
         }
     }
 }
-5. How to Run the Program
-Save the file as filehandlingutility.java.
-Open a terminal or command prompt.
-Navigate to the directory where the Java file is saved.
-Compile the program using:
+
